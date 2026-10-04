@@ -13,6 +13,8 @@ so it will most likely play paper.
 It's simple and easy to exploit (mix up your moves to beat it), but it
 really does adapts to your habits.
 
+Images can be found in the img folder
+
 ## Running it
 1. Download and install [Digital](https://github.com/hneemann/Digital).
 2. Open `rps-ai.dig` (the project file in this repo) in Digital.
