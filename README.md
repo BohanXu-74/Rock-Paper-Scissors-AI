@@ -17,8 +17,9 @@ Images can be found in the img folder
 
 ## Running it
 1. Download and install [Digital](https://github.com/hneemann/Digital).
-2. Open `rps-ai.dig` (the project file in this repo) in Digital.
-3. Press the play/start button and use the input switches to choose your move.
+2. Download both files in src folder
+3. Open `RPS_AIV2.dig` (the project file in this repo) in Digital.
+4. Press the play/start button and use the input switches to choose your move.
 
 ## Circuit overview
 - Memory: Made out of 16 flip flops
