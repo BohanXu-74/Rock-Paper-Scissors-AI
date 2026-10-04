@@ -3,6 +3,7 @@
 A Rock Paper Scissors opponent built entirely from digital logic:
 gates, decoders, multiplexers, and flip-flops, using 74-series components. 
 It does not use any microcontroller. Runs in the Digital logic simulator.
+Built for fun when I was in 6th grade.
 
 ## How it works
 The AI stores your recent moves in a small flip-flop memory. Each round,
